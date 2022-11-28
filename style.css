@@ -1,21 +1,21 @@
 @font-face{
     font-family:"Moderat-Bold";
-    src: url(DATA/FONT/Moderat/Moderat-Bold.woff);
+    src: url(data/font/Moderat/Moderat-Bold.woff);
 }
 
 @font-face{
     font-family:"Moderat";
-    src: url(DATA/FONT/Moderat/Moderat-Light.ttf);
+    src: url(data/font/Moderat/Moderat-Light.ttf);
 }
 
 @font-face{
     font-family: "Montserrat";
-    src: url(DATA/FONT/static/Montserrat-Medium.ttf)
+    src: url(data/font/static/Montserrat-Medium.ttf)
 }
 
 @font-face{
     font-family: "Archive";
-    src: url(DATA/FONT/Archive-Regular.ttf)
+    src: url(data/font/Archive-Regular.ttf)
 }
 
 * {
@@ -85,7 +85,7 @@ h1{
     align-items: center;
     justify-content: center;
     height:100vh;
-    background-image: url(DATA/IMG/kunal-patil-itn0om7LqK4-unsplash.jpg);
+    background-image: url(data/img/kunal-patil-itn0om7LqK4-unsplash.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -225,7 +225,7 @@ h2{
 .proj{
     display: flex;
     flex-direction: column;
-    background-image: url(DATA/IMG/kunal-patil-itn0om7LqK4-unsplash.jpg);
+    background-image: url(data/img/kunal-patil-itn0om7LqK4-unsplash.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -306,7 +306,7 @@ h2{
 
 .contact{
     /* background-color: #28434d; */
-    background-image: url(DATA/IMG/kunal-patil-itn0om7LqK4-unsplash.jpg);
+    background-image: url(data/img/kunal-patil-itn0om7LqK4-unsplash.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
