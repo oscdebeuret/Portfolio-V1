@@ -10,12 +10,12 @@
 
 @font-face {
     font-family: "Montserrat";
-    src: url(DATA/FONT/static/Montserrat-Medium.ttf)
+    src: url(data/font/static/Montserrat-Medium.ttf)
 }
 
 @font-face {
     font-family: "Archive";
-    src: url(DATA/FONT/Archive-Regular.ttf)
+    src: url(data/font/Archive-Regular.ttf)
 }
 
 * {
